@@ -3,4 +3,6 @@ project(module6_voids)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(module6_voids "homework 6.1.cpp")
+add_executable(module6_voids
+
+        "homework 6.2.cpp")
